@@ -8,6 +8,8 @@ new branch modify
 
 test conflict
 
+test conflict my local modify
+
 
 
 
