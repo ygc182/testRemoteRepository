@@ -6,6 +6,8 @@ remote modify
 
 new branch modify
 
+test conflict
+
 
 
 
